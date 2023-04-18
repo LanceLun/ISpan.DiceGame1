@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpan.DiceGame", "ISpan.DiceGame.csproj", "{AD835FA3-5B88-4DAC-8479-9AB0BC0ED15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD835FA3-5B88-4DAC-8479-9AB0BC0ED15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD835FA3-5B88-4DAC-8479-9AB0BC0ED15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD835FA3-5B88-4DAC-8479-9AB0BC0ED15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD835FA3-5B88-4DAC-8479-9AB0BC0ED15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F75C210-FBD8-4A10-A5BF-939885A27247}
+	EndGlobalSection
+EndGlobal
